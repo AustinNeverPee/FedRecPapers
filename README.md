@@ -2,8 +2,10 @@
 ## Summary
 | Title | Time | Publication venue |
 | --- | --- | --- |
+| [The More the Merrier - Federated Learning from Local Sphere Recommendations](https://publications.sba-research.org/publications/201708%20-%20BMalle%20-%20The%20More%20the%20Merrier.pdf) | Sep. 2017 | CD-MAKE'17 |
 | [Federated Collaborative Filtering for Privacy-Preserving Personalized Recommendation System](https://arxiv.org/pdf/1901.09888.pdf) | Jan. 2019 | arXiv |
 | [Secure Federated Matrix Factorization](https://arxiv.org/pdf/1906.05108.pdf) | Jun. 2019 | Fl-IJCAI'19 |
+| [Decentralized Recommendation Based on Matrix Factorization: A Comparison of Gossip and Federated Learning](https://dmle.iais.fraunhofer.de/papers/hegedus2019decentralized.pdf) | Sep. 2019 | MLKDD-ECML PKDD'19 |
 | [A Simple and Efficient Federated Recommender System](https://dl.acm.org/doi/10.1145/3365109.3368788) | Dec. 2019 | BDCAT'19 |
 | [Federating Recommendations Using Differentially Private Prototypes](https://arxiv.org/pdf/2003.00602.pdf) | Mar. 2020 | arXiv |
 | [Federated Multi-view Matrix Factorization for Personalized Recommendations](https://arxiv.org/abs/2004.04256) | Apr. 2020 | arXiv |
