@@ -17,4 +17,4 @@
 | [FedRec: Federated Recommendation with Explicit Feedback](https://ieeexplore.ieee.org/document/9170754) | Aug. 2020 | IEEE Intelligent Systems |
 | [A Federated Multi-View Deep Learning Framework for Privacy-Preserving Recommendations](https://arxiv.org/pdf/2008.10808.pdf) | Aug. 2020 | arXiv |
 | [Privacy-Preserving News Recommendation Model Learning](https://www.aclweb.org/anthology/2020.findings-emnlp.128.pdf) | Oct. 2020 | EMNLP'20 |
-| [Federated Recommendation Systems](https://link.springer.com/chapter/10.1007/978-3-030-63076-8_16) | Dec. 2020 | FLPI |
+| [Federated Recommendation Systems](https://link.springer.com/chapter/10.1007/978-3-030-63076-8_16) | Dec. 2020 | FLPI'20 |
