@@ -1,4 +1,7 @@
-# The existing papers about federated recommendation
+# The existing papers about federated recommendation (FedRec)
+A repository is maintained for collecting and showing the current research progress of FedRec.
+<strong>Last Update: Dec. 5th 2020</strong>.
+
 ## Summary
 | Title | Time | Publication venue |
 | --- | --- | --- |
@@ -18,3 +21,5 @@
 | [A Federated Multi-View Deep Learning Framework for Privacy-Preserving Recommendations](https://arxiv.org/pdf/2008.10808.pdf) | Aug. 2020 | arXiv |
 | [Privacy-Preserving News Recommendation Model Learning](https://www.aclweb.org/anthology/2020.findings-emnlp.128.pdf) | Oct. 2020 | EMNLP'20 |
 | [Federated Recommendation Systems](https://link.springer.com/chapter/10.1007/978-3-030-63076-8_16) | Dec. 2020 | FLPI'20 |
+
+## 
