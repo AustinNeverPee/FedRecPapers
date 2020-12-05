@@ -1,5 +1,7 @@
 # The existing papers about federated recommendation (FedRec)
+
 A repository is maintained for collecting and showing the current research progress of FedRec.
+
 <strong>Last Update: Dec. 5th 2020</strong>.
 
 ## Summary
