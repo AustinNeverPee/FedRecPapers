@@ -32,3 +32,5 @@ The works in the following list is sorted by time.
 I will briefly introduce each paper one by one. The freshest is on the top.
 
 ### Federated Recommendation Systems
+
+Affiliation: WeBank, HKUST
