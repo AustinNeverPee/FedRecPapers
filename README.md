@@ -6,7 +6,7 @@ A repository is maintained for collecting and showing the current research progr
 
 ## Summary
 
-The works in the following list is sorted by time.
+The works in the following list are sorted by time.
 
 | Title | Time | Publication venue |
 | --- | --- | --- |
