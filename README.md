@@ -33,4 +33,4 @@ I will briefly introduce each paper one by one. The freshest is on the top.
 
 ### Federated Recommendation Systems
 
-Affiliation: WeBank, HKUST
+Affiliations: WeBank, HKUST
