@@ -31,6 +31,6 @@ The works in the following list are sorted by time.
 
 I will briefly introduce each paper one by one. The freshest is on the top.
 
-### Federated Recommendation Systems
-
-Affiliations: WeBank, HKUST
+> Federated Recommendation Systems
+>> Affiliations: WeBank, HKUST
+>>> The paper is an overview of the existing papers of FedRec. Besides, it also provides a categorization of FedRec and concludes the challenges when building a federated recommender system.
