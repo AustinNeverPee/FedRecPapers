@@ -32,5 +32,9 @@ The works in the following list are sorted by time.
 I will briefly introduce each paper one by one. The freshest is on the top.
 
 > Federated Recommendation Systems
->> Affiliations: WeBank, HKUST
+>> Affiliations: WeBank, Hong Kong University of Science and Technology
 >>> The paper is an overview of the existing papers of FedRec. Besides, it also provides a categorization of FedRec and concludes the challenges when building a federated recommender system.
+
+> Privacy-Preserving News Recommendation Model Learning
+>> Tsinghua University, Microsoft Research Asia
+>>> 
