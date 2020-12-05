@@ -5,6 +5,9 @@ A repository is maintained for collecting and showing the current research progr
 <strong>Last Update: Dec. 5th 2020</strong>.
 
 ## Summary
+
+The works in the following list is sorted by time.
+
 | Title | Time | Publication venue |
 | --- | --- | --- |
 | [The More the Merrier - Federated Learning from Local Sphere Recommendations](https://publications.sba-research.org/publications/201708%20-%20BMalle%20-%20The%20More%20the%20Merrier.pdf) | Sep. 2017 | CD-MAKE'17 |
@@ -24,4 +27,8 @@ A repository is maintained for collecting and showing the current research progr
 | [Privacy-Preserving News Recommendation Model Learning](https://www.aclweb.org/anthology/2020.findings-emnlp.128.pdf) | Oct. 2020 | EMNLP'20 |
 | [Federated Recommendation Systems](https://link.springer.com/chapter/10.1007/978-3-030-63076-8_16) | Dec. 2020 | FLPI'20 |
 
-## 
+## Details
+
+I will briefly introduce each paper one by one. The freshest is on the top.
+
+### Federated Recommendation Systems
