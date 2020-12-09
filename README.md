@@ -2,7 +2,7 @@
 
 This repository is maintained for collecting and showing the current research progress of FedRec.
 
-<strong>Last Update: Dec. 5th 2020</strong>.
+<strong>Last Update: Dec. 9th 2020</strong>.
 
 ## Summary
 
@@ -32,10 +32,9 @@ The works in the following list are sorted by time.
 
 I will briefly introduce each paper one by one. The freshest is on the top.
 
-> Federated Recommendation Systems
->> Affiliations: WeBank, Hong Kong University of Science and Technology
->>> The paper is an overview of the existing papers of FedRec. Besides, it also provides a categorization of FedRec and concludes the challenges when building a federated recommender system.
+### Federated Recommendation Systems
+#### Affiliations: WeBank, Hong Kong University of Science and Technology
+##### The paper is an overview of the existing papers of FedRec. Besides, it also provides a categorization of FedRec and concludes the challenges when building a federated recommender system.
 
-> Privacy-Preserving News Recommendation Model Learning
->> Affiliations: Tsinghua University, Microsoft Research Asia
->>> 
+### Privacy-Preserving News Recommendation Model Learning
+#### Affiliations: Tsinghua University, Microsoft Research Asia
