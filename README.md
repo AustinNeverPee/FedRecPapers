@@ -2,7 +2,7 @@
 
 This repository is maintained for collecting and showing the current research progress of FedRec.
 
-<strong>Last Update: Dec. 9th 2020</strong>.
+<strong>Last Update: Jan. 6th 2021</strong>.
 
 ## Summary
 
