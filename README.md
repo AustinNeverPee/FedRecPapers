@@ -30,6 +30,7 @@ The works in the following list are sorted by time.
 | FedRec++: Lossless Federated Recommendation with Explicit Feedback | Dec. 2020 | AAAI'21 |
 | [Federated Recommendation Systems](https://link.springer.com/chapter/10.1007/978-3-030-63076-8_16) | Dec. 2020 | FLPI'20 |
 
+<!--
 ## Details
 
 I will briefly introduce each paper one by one. The freshest is on the top.
@@ -42,3 +43,5 @@ The paper is an overview of the existing papers of FedRec. Besides, it also prov
 ***
 ### Privacy-Preserving News Recommendation Model Learning
 #### Affiliations: Tsinghua University, Microsoft Research Asia
+
+-->
