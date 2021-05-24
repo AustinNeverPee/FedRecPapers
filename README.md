@@ -2,7 +2,7 @@
 
 This repository is maintained for collecting and showing the current research progress of FedRec.
 
-<strong>Last Update: Jan. 6th 2021</strong>.
+<strong>Last Update: May. 24th 2021</strong>.
 
 ## Summary
 
@@ -30,6 +30,7 @@ The works in the following list are sorted by time.
 | FedRec++: Lossless Federated Recommendation with Explicit Feedback | Dec. 2020 | AAAI'21 |
 | [Federated Recommendation Systems](https://link.springer.com/chapter/10.1007/978-3-030-63076-8_16) | Dec. 2020 | FLPI'20 |
 | [A Federated Learning Approach for Privacy Protection in Context-Aware Recommender Systems](https://academic.oup.com/comjnl/advance-article-abstract/doi/10.1093/comjnl/bxab025/6259634?redirectedFrom=fulltext) | Apr. 2021 | The Computer Journal |
+| [Demystifying Model Averaging for Communication-Efficient Federated Matrix Factorization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9413927) | Jun. 2021 | ICASSP'21 |
 
 <!--
 ## Details
