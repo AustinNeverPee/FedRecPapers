@@ -31,6 +31,7 @@ The works in the following list are sorted by time.
 | [Federated Multi-Armed Bandits](https://www.aaai.org/AAAI21Papers/AAAI-1473.ShiC.pdf) | Dec. 2020 | AAAI'21 |
 | [Federated Recommendation Systems](https://link.springer.com/chapter/10.1007/978-3-030-63076-8_16) | Dec. 2020 | FLPI'20 |
 | [A Federated Learning Approach for Privacy Protection in Context-Aware Recommender Systems](https://academic.oup.com/comjnl/advance-article-abstract/doi/10.1093/comjnl/bxab025/6259634?redirectedFrom=fulltext) | Apr. 2021 | The Computer Journal |
+| [Federated Multi-armed Bandits with Personalization](http://proceedings.mlr.press/v130/shi21c/shi21c.pdf) | Apr. 2021 | AISTATS'21 |
 | [Demystifying Model Averaging for Communication-Efficient Federated Matrix Factorization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9413927) | Jun. 2021 | ICASSP'21 |
 
 <!--
