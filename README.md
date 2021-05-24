@@ -28,6 +28,7 @@ The works in the following list are sorted by time.
 | [Privacy-Preserving News Recommendation Model Learning](https://www.aclweb.org/anthology/2020.findings-emnlp.128.pdf) | Oct. 2020 | EMNLP'20 |
 | [A Novel Privacy-Preserved Recommender System Framework based on Federated Learning](https://arxiv.org/pdf/2011.05614.pdf) | Nov. 2020 | arXiv |
 | FedRec++: Lossless Federated Recommendation with Explicit Feedback | Dec. 2020 | AAAI'21 |
+| [Federated Multi-Armed Bandits](https://www.aaai.org/AAAI21Papers/AAAI-1473.ShiC.pdf) | Dec. 2020 | AAAI'21 |
 | [Federated Recommendation Systems](https://link.springer.com/chapter/10.1007/978-3-030-63076-8_16) | Dec. 2020 | FLPI'20 |
 | [A Federated Learning Approach for Privacy Protection in Context-Aware Recommender Systems](https://academic.oup.com/comjnl/advance-article-abstract/doi/10.1093/comjnl/bxab025/6259634?redirectedFrom=fulltext) | Apr. 2021 | The Computer Journal |
 | [Demystifying Model Averaging for Communication-Efficient Federated Matrix Factorization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9413927) | Jun. 2021 | ICASSP'21 |
