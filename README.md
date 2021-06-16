@@ -34,6 +34,7 @@ The works in the following list are sorted by time.
 | [Personalized Recommendation Algorithm for Mobile Based on Federated Matrix Factorization](https://iopscience.iop.org/article/10.1088/1742-6596/1802/3/032021/pdf) | Mar. 2021 | CDMMS'20 |
 | [A Federated Learning Approach for Privacy Protection in Context-Aware Recommender Systems](https://academic.oup.com/comjnl/advance-article-abstract/doi/10.1093/comjnl/bxab025/6259634?redirectedFrom=fulltext) | Apr. 2021 | The Computer Journal |
 | [Federated Multi-armed Bandits with Personalization](http://proceedings.mlr.press/v130/shi21c/shi21c.pdf) | Apr. 2021 | AISTATS'21 |
+| [Stronger Privacy for Federated Collaborative Filtering with Implicit Feedback](https://arxiv.org/pdf/2105.03941.pdf) | May. 2021 | arXiv |
 | [Demystifying Model Averaging for Communication-Efficient Federated Matrix Factorization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9413927) | Jun. 2021 | ICASSP'21 |
 | [DARES: An Asynchronous Distributed Recommender System Using Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9448142) | Jun. 2021 | IEEE Access |
 | [Federated Neural Collaborative Filtering](https://arxiv.org/pdf/2106.04405.pdf) | Jun. 2021 | arXiv |
