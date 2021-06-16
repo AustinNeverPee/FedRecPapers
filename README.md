@@ -19,6 +19,7 @@ The works in the following list are sorted by time.
 | [Federated Multi-view Matrix Factorization for Personalized Recommendations](https://arxiv.org/abs/2004.04256) | Apr. 2020 | arXiv |
 | [Federated Recommendation System via Differential Privacy](https://ieeexplore.ieee.org/document/9174297) | May. 2020 | ISIT'20 |
 | [Meta Matrix Factorization for Federated Rating Predictions](https://arxiv.org/pdf/1910.10086v2.pdf) | Jun. 2020 | SIGIR'20 |
+| [DPLCF: Differentially Private Local Collaborative Filtering](https://dl.acm.org/doi/abs/10.1145/3397271.3401053?casa_token=3nEw3CHZ6UIAAAAA:CzXCDEb65zjxXCbwhq7leQNO-6ZKrX4XoiVdMQJHLppCcGTOE_rvqcBBOfA4tQ2lCONkGy5kiOaFrRw) | Jun. 2020 | SIGIR'20 |
 | [Federated CF: Privacy-Preserving Collaborative Filtering Cross Multiple Datasets](https://ieeexplore.ieee.org/document/9148791) | Jun. 2020 | ICC'20 |
 | [Robust Federated Recommendation System](https://arxiv.org/pdf/2006.08259.pdf) | Jun. 2020 | arXiv |
 | [Privacy Threats Against Federated Matrix Factorization](https://arxiv.org/pdf/2007.01587.pdf) | Jul. 2020 | FL-IJCAI'20 |
