@@ -2,7 +2,7 @@
 
 This repository is maintained for collecting and showing the current research progress of FedRec.
 
-<strong>Last Update: May. 31st 2021</strong>.
+<strong>Last Update: Jun. 16th 2021</strong>.
 
 ## Summary
 
@@ -34,6 +34,7 @@ The works in the following list are sorted by time.
 | [A Federated Learning Approach for Privacy Protection in Context-Aware Recommender Systems](https://academic.oup.com/comjnl/advance-article-abstract/doi/10.1093/comjnl/bxab025/6259634?redirectedFrom=fulltext) | Apr. 2021 | The Computer Journal |
 | [Federated Multi-armed Bandits with Personalization](http://proceedings.mlr.press/v130/shi21c/shi21c.pdf) | Apr. 2021 | AISTATS'21 |
 | [Demystifying Model Averaging for Communication-Efficient Federated Matrix Factorization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9413927) | Jun. 2021 | ICASSP'21 |
+| [DARES: An Asynchronous Distributed Recommender System Using Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9448142) | Jun. 2021 | IEEE Access |
 
 <!--
 ## Details
