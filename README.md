@@ -35,6 +35,7 @@ The works in the following list are sorted by time.
 | [Federated Multi-armed Bandits with Personalization](http://proceedings.mlr.press/v130/shi21c/shi21c.pdf) | Apr. 2021 | AISTATS'21 |
 | [Demystifying Model Averaging for Communication-Efficient Federated Matrix Factorization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9413927) | Jun. 2021 | ICASSP'21 |
 | [DARES: An Asynchronous Distributed Recommender System Using Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9448142) | Jun. 2021 | IEEE Access |
+| [Federated Neural Collaborative Filtering](https://arxiv.org/pdf/2106.04405.pdf) | Jun. 2021 | arXiv |
 
 <!--
 ## Details
