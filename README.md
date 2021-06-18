@@ -6,7 +6,7 @@ This repository is maintained for collecting and showing the current research pr
 
 ## Summary
 
-The works in the following list are sorted by time.
+Works are sorted by time.
 
 ### Conference proceedings
 
