@@ -2,7 +2,7 @@
 
 This repository is maintained for collecting and showing the current research progress of FedRec.
 
-<strong>Last Update: Jun. 18th 2021</strong>.
+<strong>Last Update: Jul. 7th 2021</strong>.
 
 ## Summary
 
@@ -20,6 +20,7 @@ Works are sorted by time.
 | [DPLCF: Differentially Private Local Collaborative Filtering](https://dl.acm.org/doi/abs/10.1145/3397271.3401053?casa_token=3nEw3CHZ6UIAAAAA:CzXCDEb65zjxXCbwhq7leQNO-6ZKrX4XoiVdMQJHLppCcGTOE_rvqcBBOfA4tQ2lCONkGy5kiOaFrRw) | Jun. 2020 | SIGIR'20 |
 | [Federated CF: Privacy-Preserving Collaborative Filtering Cross Multiple Datasets](https://ieeexplore.ieee.org/document/9148791) | Jun. 2020 | ICC'20 |
 | [FedFast: Going beyond Average for Faster Training of Federated Recommender Systems](https://dl.acm.org/doi/pdf/10.1145/3394486.3403176) | Aug. 2020 | KDD'20 |
+| [Secure Efficient Federated KNN for Recommendation Systems](https://link.springer.com/chapter/10.1007/978-3-030-70665-4_195) | Aug. 2020 | ICNC-FSKD‘20 |
 | [Privacy-Preserving News Recommendation Model Learning](https://www.aclweb.org/anthology/2020.findings-emnlp.128.pdf) | Oct. 2020 | EMNLP'20 |
 | FedRec++: Lossless Federated Recommendation with Explicit Feedback | Dec. 2020 | AAAI'21 |
 | [Federated Multi-Armed Bandits](https://www.aaai.org/AAAI21Papers/AAAI-1473.ShiC.pdf) | Dec. 2020 | AAAI'21 |
