@@ -60,6 +60,7 @@ Works are sorted by time.
 | [Robust Federated Recommendation System](https://arxiv.org/pdf/2006.08259.pdf) | Jun. 2020 | arXiv |
 | [A Federated Multi-View Deep Learning Framework for Privacy-Preserving Recommendations](https://arxiv.org/pdf/2008.10808.pdf) | Aug. 2020 | arXiv |
 | [A Novel Privacy-Preserved Recommender System Framework based on Federated Learning](https://arxiv.org/pdf/2011.05614.pdf) | Nov. 2020 | arXiv |
+| [Fast-adapting and Privacy-preserving Federated Recommender System](https://arxiv.org/pdf/2104.00919.pdf) | Apr. 2021 | arXiv |
 | [Stronger Privacy for Federated Collaborative Filtering with Implicit Feedback](https://arxiv.org/pdf/2105.03941.pdf) | May. 2021 | arXiv |
 | [Federated Neural Collaborative Filtering](https://arxiv.org/pdf/2106.04405.pdf) | Jun. 2021 | arXiv |
 
