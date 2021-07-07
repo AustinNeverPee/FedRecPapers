@@ -32,6 +32,7 @@ Works are sorted by time.
 ### Journal articles
 | Title | Time | Publication venue |
 | --- | --- | --- |
+| [A Privacy-Preserving Distributed Contextual Federated Online Learning Framework with Big Data Support in Social Recommender Systems](https://ieeexplore.ieee.org/abstract/document/8807242?casa_token=gbK7bHcVQT4AAAAA:r5ILudorjzUk6k0c31MRCuh9V3XkHOAKQoTDrGlbyH0LPEwwkMx6tQonYSpmsYJj6j5p1TpL9wg) | Aug. 2019 | TKDE |
 | [FedRec: Federated Recommendation with Explicit Feedback](https://ieeexplore.ieee.org/document/9170754) | Aug. 2020 | IEEE Intelligent Systems |
 | [Secure Federated Matrix Factorization](https://ieeexplore.ieee.org/abstract/document/9162459?casa_token=UYvbEeKUDn0AAAAA:nSJKDVJ_0ER1lIjc5ArPrc6NM3IdCthhZYNplu1W7tqhEKgKhDVwImrkbBHDdK0kX82O-4iBrkA) | Aug. 2020 | IEEE Intelligent Systems |
 | [Personalized Recommendation Algorithm for Mobile Based on Federated Matrix Factorization](https://iopscience.iop.org/article/10.1088/1742-6596/1802/3/032021/meta) | Mar. 2021 | Journal of Physics: Conference Series |
