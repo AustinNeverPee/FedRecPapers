@@ -33,6 +33,7 @@ Works are sorted by time.
 | --- | --- | --- |
 | [FedRec: Federated Recommendation with Explicit Feedback](https://ieeexplore.ieee.org/document/9170754) | Aug. 2020 | IEEE Intelligent Systems |
 | [Secure Federated Matrix Factorization](https://ieeexplore.ieee.org/abstract/document/9162459?casa_token=UYvbEeKUDn0AAAAA:nSJKDVJ_0ER1lIjc5ArPrc6NM3IdCthhZYNplu1W7tqhEKgKhDVwImrkbBHDdK0kX82O-4iBrkA) | Aug. 2020 | IEEE Intelligent Systems |
+| [Personalized Recommendation Algorithm for Mobile Based on Federated Matrix Factorization](https://iopscience.iop.org/article/10.1088/1742-6596/1802/3/032021/meta) | Mar. 2021 | Journal of Physics: Conference Series |
 | [A Federated Learning Approach for Privacy Protection in Context-Aware Recommender Systems](https://academic.oup.com/comjnl/advance-article-abstract/doi/10.1093/comjnl/bxab025/6259634?redirectedFrom=fulltext) | Apr. 2021 | The Computer Journal |
 | [DARES: An Asynchronous Distributed Recommender System Using Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9448142) | Jun. 2021 | IEEE Access |
 
