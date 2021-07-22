@@ -2,7 +2,7 @@
 
 This repository is maintained for collecting and showing the current research progress of FedRec.
 
-<strong>Last Update: Jul. 7th 2021</strong>.
+<strong>Last Update: Jul. 22nd 2021</strong>.
 
 ## Summary
 
@@ -39,6 +39,7 @@ Works are sorted by time.
 | [Personalized Recommendation Algorithm for Mobile Based on Federated Matrix Factorization](https://iopscience.iop.org/article/10.1088/1742-6596/1802/3/032021/meta) | Mar. 2021 | Journal of Physics: Conference Series |
 | [A Federated Learning Approach for Privacy Protection in Context-Aware Recommender Systems](https://academic.oup.com/comjnl/advance-article-abstract/doi/10.1093/comjnl/bxab025/6259634?redirectedFrom=fulltext) | Apr. 2021 | The Computer Journal |
 | [DARES: An Asynchronous Distributed Recommender System Using Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9448142) | Jun. 2021 | IEEE Access |
+| [Federated matrix factorization for privacy-preserving recommender systems](https://www.sciencedirect.com/science/article/abs/pii/S1568494621006219?casa_token=NiBFD7sw-bgAAAAA:emAMFlKIyd1lmVoCTr1o-oETbe3h1tTjs-08FlEpcO5WnmB001jOlyUzzwes-VKIlFTqQVqcswxp) | Jul. 2021 | Applied Soft Computing |
 
 ### Book chapters
 | Title | Time | Publication venue |
