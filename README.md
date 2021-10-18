@@ -2,7 +2,7 @@
 
 This repository is maintained for collecting and showing the current research progress of FedRec.
 
-<strong>Last Update: Jul. 22nd 2021</strong>.
+<strong>Last Update: Oct. 18th 2021</strong>.
 
 ## Summary
 
@@ -66,6 +66,7 @@ Works are sorted by time.
 | [Fast-adapting and Privacy-preserving Federated Recommender System](https://arxiv.org/pdf/2104.00919.pdf) | Apr. 2021 | arXiv |
 | [Stronger Privacy for Federated Collaborative Filtering with Implicit Feedback](https://arxiv.org/pdf/2105.03941.pdf) | May. 2021 | arXiv |
 | [Federated Neural Collaborative Filtering](https://arxiv.org/pdf/2106.04405.pdf) | Jun. 2021 | arXiv |
+| [Practical and Secure Federated Recommendation with Personalized Masks](https://arxiv.org/pdf/2109.02464.pdf) | Aug. 2021 | arXiv |
 
 <!--
 ## Details
