@@ -28,6 +28,8 @@ Works are sorted by time.
 | [Personalized Recommendation Algorithm for Mobile Based on Federated Matrix Factorization](https://iopscience.iop.org/article/10.1088/1742-6596/1802/3/032021/pdf) | Mar. 2021 | CDMMS'20 |
 | [Federated Multi-armed Bandits with Personalization](http://proceedings.mlr.press/v130/shi21c/shi21c.pdf) | Apr. 2021 | AISTATS'21 |
 | [Demystifying Model Averaging for Communication-Efficient Federated Matrix Factorization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9413927) | Jun. 2021 | ICASSP'21 |
+| [A Payload Optimization Method for Federated Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3460231.3474257) | Sep. 2021 | RecSys‘21 |
+| [Stronger Privacy for Federated Collaborative Filtering With Implicit Feedback](https://dl.acm.org/doi/fullHtml/10.1145/3460231.3474262) | Sep. 2021 | RecSys‘21 |
 
 ### Journal articles
 | Title | Time | Publication venue |
