@@ -26,6 +26,7 @@ Works are sorted by time.
 | FedRec++: Lossless Federated Recommendation with Explicit Feedback | Dec. 2020 | AAAI'21 |
 | [Federated Multi-Armed Bandits](https://www.aaai.org/AAAI21Papers/AAAI-1473.ShiC.pdf) | Dec. 2020 | AAAI'21 |
 | [Personalized Recommendation Algorithm for Mobile Based on Federated Matrix Factorization](https://iopscience.iop.org/article/10.1088/1742-6596/1802/3/032021/pdf) | Mar. 2021 | CDMMS'20 |
+| [FedeRank: User Controlled Feedback with Federated Recommender Systems](https://www.springerprofessional.de/federank-user-controlled-feedback-with-federated-recommender-sys/19011494) | Mar. 2021 | ECIR 2021 |
 | [Federated Multi-armed Bandits with Personalization](http://proceedings.mlr.press/v130/shi21c/shi21c.pdf) | Apr. 2021 | AISTATS'21 |
 | [Demystifying Model Averaging for Communication-Efficient Federated Matrix Factorization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9413927) | Jun. 2021 | ICASSP'21 |
 | [A Payload Optimization Method for Federated Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3460231.3474257) | Sep. 2021 | RecSys‘21 |
