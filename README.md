@@ -48,6 +48,7 @@ Works are sorted by time.
 | [Federated matrix factorization for privacy-preserving recommender systems](https://www.sciencedirect.com/science/article/abs/pii/S1568494621006219?casa_token=NiBFD7sw-bgAAAAA:emAMFlKIyd1lmVoCTr1o-oETbe3h1tTjs-08FlEpcO5WnmB001jOlyUzzwes-VKIlFTqQVqcswxp) | Jul. 2021 | Applied Soft Computing |
 | [FedDSR: Daily Schedule Recommendation in a Federated Deep Reinforcement Learning Framework](https://ieeexplore.ieee.org/document/9626622/authors#authors) | Nov. 2021 | TKDE |
 | [Efficient Federated Matrix Factorization against Inference Attacks](https://dl.acm.org/doi/pdf/10.1145/3501812) | May. 2022 | TIST |
+| [FedCDR: Privacy-preserving federated cross-domain recommendation](https://www.sciencedirect.com/science/article/pii/S2352864822000839) | May. 2022 | TIST |
 
 ### Book chapters
 | Title | Time | Publication venue |
@@ -75,6 +76,7 @@ Works are sorted by time.
 | [Federated Neural Collaborative Filtering](https://arxiv.org/pdf/2106.04405.pdf) | Jun. 2021 | arXiv |
 | [Practical and Secure Federated Recommendation with Personalized Masks](https://arxiv.org/pdf/2109.02464.pdf) | Aug. 2021 | arXiv |
 | [PipAttack: Poisoning Federated Recommender Systems for Manipulating Item Promotion](https://arxiv.org/pdf/2110.10926.pdf) | Oct. 2021 | arXiv |
+| [FedSPLIT: One-Shot Federated Recommendation System Based on Non-negative Joint Matrix Factorization and Knowledge Distillation](https://arxiv.org/pdf/2205.02359.pdf) | May. 2022 | arXiv |
 
 <!--
 ## Details
