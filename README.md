@@ -47,6 +47,7 @@ Works are sorted by time.
 | [DARES: An Asynchronous Distributed Recommender System Using Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9448142) | Jun. 2021 | IEEE Access |
 | [Federated matrix factorization for privacy-preserving recommender systems](https://www.sciencedirect.com/science/article/abs/pii/S1568494621006219?casa_token=NiBFD7sw-bgAAAAA:emAMFlKIyd1lmVoCTr1o-oETbe3h1tTjs-08FlEpcO5WnmB001jOlyUzzwes-VKIlFTqQVqcswxp) | Jul. 2021 | Applied Soft Computing |
 | [FedDSR: Daily Schedule Recommendation in a Federated Deep Reinforcement Learning Framework](https://ieeexplore.ieee.org/document/9626622/authors#authors) | Nov. 2021 | TKDE |
+| [Efficient Federated Matrix Factorization against Inference Attacks](https://dl.acm.org/doi/pdf/10.1145/3501812) | May. 2022 | TIST |
 
 ### Book chapters
 | Title | Time | Publication venue |
