@@ -2,7 +2,7 @@
 
 This repository is maintained for collecting and showing the current research progress of FedRec.
 
-<strong>Last Update: Dec. 6th 2021</strong>.
+<strong>Last Update: May 26th 2022</strong>.
 
 ## Summary
 
@@ -31,6 +31,7 @@ Works are sorted by time.
 | [Demystifying Model Averaging for Communication-Efficient Federated Matrix Factorization](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9413927) | Jun. 2021 | ICASSP'21 |
 | [A Payload Optimization Method for Federated Recommender Systems](https://dl.acm.org/doi/abs/10.1145/3460231.3474257) | Sep. 2021 | RecSys‘21 |
 | [Stronger Privacy for Federated Collaborative Filtering With Implicit Feedback](https://dl.acm.org/doi/fullHtml/10.1145/3460231.3474262) | Sep. 2021 | RecSys‘21 |
+| [FR-FMSS: Federated Recommendation via Fake Marks and Secret Sharing](https://dl.acm.org/doi/pdf/10.1145/3460231.3478855) | Sep. 2021 | RecSys‘21 |
 | [Federated Recommender Systems with Learning to Rank](http://ceur-ws.org/Vol-2994/paper7.pdf) | Sep. 2021 | SEBD‘21 |
 
 ### Journal articles
