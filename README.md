@@ -35,6 +35,7 @@ Works are sorted by time.
 | [Stronger Privacy for Federated Collaborative Filtering With Implicit Feedback](https://dl.acm.org/doi/fullHtml/10.1145/3460231.3474262) | Sep. 2021 | RecSys‘21 |
 | [FR-FMSS: Federated Recommendation via Fake Marks and Secret Sharing](https://dl.acm.org/doi/pdf/10.1145/3460231.3478855) | Sep. 2021 | RecSys‘21 |
 | [Federated Recommender Systems with Learning to Rank](http://ceur-ws.org/Vol-2994/paper7.pdf) | Sep. 2021 | SEBD‘21 |
+| [Federated Learning Application on Telecommunication-Joint Healthcare Recommendation](https://ieeexplore.ieee.org/abstract/document/9657870?casa_token=9sWs4QbSwBoAAAAA:OY2U5C86m8uVSl2K4jgbMb_3JnHXrOrtT_7E2frov1mMYO9nMtYI_jgiQM6NFkm6Hl8DzN8) | Oct. 2021 | ICCT‘21 |
 | [Exploiting Data Sparsity in Secure Cross-Platform Social Recommendation](https://proceedings.neurips.cc/paper/2021/file/56db57b4db0a6fcb7f9e0c0b504f6472-Paper.pdf) | Dec. 2021 | NeurIPS'21 |
 | [Differential Private Knowledge Transfer for Privacy-Preserving Cross-Domain Recommendation](https://dl.acm.org/doi/pdf/10.1145/3485447.3512192) | Apr. 2022 | WWW'22 |
 
