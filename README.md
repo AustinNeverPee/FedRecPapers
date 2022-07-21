@@ -2,7 +2,7 @@
 
 This repository is maintained for collecting and showing the current research progress of FedRec.
 
-<strong>Last Update: Jun. 16th 2022</strong>.
+<strong>Last Update: Jul. 21st 2022</strong>.
 
 ## Summary
 
@@ -53,6 +53,8 @@ Works are sorted by time.
 | [FedDSR: Daily Schedule Recommendation in a Federated Deep Reinforcement Learning Framework](https://ieeexplore.ieee.org/document/9626622/authors#authors) | Nov. 2021 | TKDE |
 | [Efficient Federated Matrix Factorization against Inference Attacks](https://dl.acm.org/doi/pdf/10.1145/3501812) | May. 2022 | TIST |
 | [FedCDR: Privacy-preserving federated cross-domain recommendation](https://www.sciencedirect.com/science/article/pii/S2352864822000839) | May. 2022 | TIST |
+| [Federated recommenders: methods, challenges and future](https://link.springer.com/article/10.1007/s10586-022-03644-w) | May. 2022 | Cluster Computing |
+| [FedRec: Trusted rank-based recommender scheme for service provisioning in federated cloud environment](https://www.sciencedirect.com/science/article/pii/S2352864822001250) | Jun. 2022 | Digital Communications and Networks |
 
 ### Book chapters
 | Title | Time | Publication venue |
