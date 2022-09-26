@@ -24,7 +24,7 @@ Works are sorted by time.
 | [Secure Social Recommendation based on Secret Sharing](https://ecai2020.eu/papers/609_paper.pdf) | Aug. 2020 | ECAI‘20 |
 | [A Federated Recommender System for Online Services](https://dl.acm.org/doi/fullHtml/10.1145/3383313.3411528) | Sep. 2020 | RecSys‘20 |
 | [Privacy-Preserving News Recommendation Model Learning](https://www.aclweb.org/anthology/2020.findings-emnlp.128.pdf) | Oct. 2020 | EMNLP'20 |
-| FedRec++: Lossless Federated Recommendation with Explicit Feedback | Dec. 2020 | AAAI'21 |
+| [FedRec++: Lossless Federated Recommendation with Explicit Feedback](https://ojs.aaai.org/index.php/AAAI/article/view/16546) | Dec. 2020 | AAAI'21 |
 | [Federated Multi-Armed Bandits](https://www.aaai.org/AAAI21Papers/AAAI-1473.ShiC.pdf) | Dec. 2020 | AAAI'21 |
 | [Personalized Recommendation Algorithm for Mobile Based on Federated Matrix Factorization](https://iopscience.iop.org/article/10.1088/1742-6596/1802/3/032021/pdf) | Mar. 2021 | CDMMS'20 |
 | [FedeRank: User Controlled Feedback with Federated Recommender Systems](https://www.springerprofessional.de/federank-user-controlled-feedback-with-federated-recommender-sys/19011494) | Mar. 2021 | ECIR 2021 |
@@ -37,7 +37,11 @@ Works are sorted by time.
 | [Federated Recommender Systems with Learning to Rank](http://ceur-ws.org/Vol-2994/paper7.pdf) | Sep. 2021 | SEBD‘21 |
 | [Federated Learning Application on Telecommunication-Joint Healthcare Recommendation](https://ieeexplore.ieee.org/abstract/document/9657870?casa_token=9sWs4QbSwBoAAAAA:OY2U5C86m8uVSl2K4jgbMb_3JnHXrOrtT_7E2frov1mMYO9nMtYI_jgiQM6NFkm6Hl8DzN8) | Oct. 2021 | ICCT‘21 |
 | [Exploiting Data Sparsity in Secure Cross-Platform Social Recommendation](https://proceedings.neurips.cc/paper/2021/file/56db57b4db0a6fcb7f9e0c0b504f6472-Paper.pdf) | Dec. 2021 | NeurIPS'21 |
+| [PipAttack: Poisoning Federated Recommender Systems for Manipulating Item Promotion](https://dl.acm.org/doi/10.1145/3488560.3498386) | Feb. 2022 | WSDM'22 |
 | [Differential Private Knowledge Transfer for Privacy-Preserving Cross-Domain Recommendation](https://dl.acm.org/doi/pdf/10.1145/3485447.3512192) | Apr. 2022 | WWW'22 |
+| [FedAttack: Effective and Covert Poisoning Attack on Federated Recommendation via Hard Sampling](https://dl.acm.org/doi/10.1145/3534678.3539119) | Aug. 2022 | KDD'22 |
+| [Fairness-aware Federated Matrix Factorization](https://dl.acm.org/doi/10.1145/3523227.3546771) | Sep. 2022 | RecSys'22 |
+| [Towards Fair Federated Recommendation Learning: Characterizing the Inter-Dependence of System and Data Heterogeneity](https://dl.acm.org/doi/10.1145/3523227.3546759) | Sep. 2022 | RecSys'22 |
 
 ### Journal articles
 | Title | Time | Publication venue |
