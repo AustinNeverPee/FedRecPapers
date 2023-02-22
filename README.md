@@ -60,7 +60,7 @@ Works are sorted by time.
 | [FedCDR: Privacy-preserving federated cross-domain recommendation](https://www.sciencedirect.com/science/article/pii/S2352864822000839) | May. 2022 | TIST |
 | [Federated recommenders: methods, challenges and future](https://link.springer.com/article/10.1007/s10586-022-03644-w) | May. 2022 | Cluster Computing |
 | [FedRec: Trusted rank-based recommender scheme for service provisioning in federated cloud environment](https://www.sciencedirect.com/science/article/pii/S2352864822001250) | Jun. 2022 | Digital Communications and Networks |
-| [Privacy-Preserving Hierarchical Federated Recommendation Systems]([https://www.sciencedirect.com/science/article/pii/S2352864822001250](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10044657&casa_token=Z8mwVo_z_GIAAAAA:VRjxLQHcQyr9lO4kl4UPwbvu3a8aMlal1k3CdT0iYzQQJNW7D_vlvuaUDCOPC2Yu_tDghIc&tag=1)) | Feb. 2023 | IEEE Communications Letters |
+| [Privacy-Preserving Hierarchical Federated Recommendation Systems](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10044657) | Feb. 2023 | IEEE Communications Letters |
 
 ### Book chapters
 | Title | Time | Publication venue |
