@@ -61,6 +61,7 @@ Works are sorted by time.
 | [Federated recommenders: methods, challenges and future](https://link.springer.com/article/10.1007/s10586-022-03644-w) | May. 2022 | Cluster Computing |
 | [FedRec: Trusted rank-based recommender scheme for service provisioning in federated cloud environment](https://www.sciencedirect.com/science/article/pii/S2352864822001250) | Jun. 2022 | Digital Communications and Networks |
 | [Privacy-Preserving Hierarchical Federated Recommendation Systems](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10044657) | Feb. 2023 | IEEE Communications Letters |
+| [Privacy-preserving graph convolution network for federated item recommendation](https://www.sciencedirect.com/science/article/pii/S000437022300142X) | Nov. 2023 | Artificial Intelligence |
 
 ### Book chapters
 | Title | Time | Publication venue |
