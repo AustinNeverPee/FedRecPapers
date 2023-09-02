@@ -2,7 +2,7 @@
 
 This repository is maintained for collecting and showing the current research progress of FedRec.
 
-<strong>Last Update: Feb. 22nd 2023</strong>.
+<strong>Last Update: Sep. 2nd 2023</strong>.
 
 ## Summary
 
@@ -89,6 +89,7 @@ Works are sorted by time.
 | [Practical and Secure Federated Recommendation with Personalized Masks](https://arxiv.org/pdf/2109.02464.pdf) | Aug. 2021 | arXiv |
 | [PipAttack: Poisoning Federated Recommender Systems for Manipulating Item Promotion](https://arxiv.org/pdf/2110.10926.pdf) | Oct. 2021 | arXiv |
 | [FedSPLIT: One-Shot Federated Recommendation System Based on Non-negative Joint Matrix Factorization and Knowledge Distillation](https://arxiv.org/pdf/2205.02359.pdf) | May. 2022 | arXiv |
+| [Efficiency Boosting of Secure Cross-platform Recommender Systems over Sparse Data](https://arxiv.org/pdf/2212.01537.pdf) | Dec. 2022 | arXiv |
 
 <!--
 ## Details
