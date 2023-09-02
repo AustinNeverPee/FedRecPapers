@@ -43,6 +43,9 @@ Works are sorted by time.
 | [FedAttack: Effective and Covert Poisoning Attack on Federated Recommendation via Hard Sampling](https://dl.acm.org/doi/10.1145/3534678.3539119) | Aug. 2022 | KDD'22 |
 | [Fairness-aware Federated Matrix Factorization](https://dl.acm.org/doi/10.1145/3523227.3546771) | Sep. 2022 | RecSys'22 |
 | [Towards Fair Federated Recommendation Learning: Characterizing the Inter-Dependence of System and Data Heterogeneity](https://dl.acm.org/doi/10.1145/3523227.3546759) | Sep. 2022 | RecSys'22 |
+| [PrivateRec: Differentially Private Model Training and Online Serving for Federated News Recommendation](https://dl.acm.org/doi/abs/10.1145/3580305.3599889) | Aug. 2023 | KDD'23 |
+| [Privacy Matters: Vertical Federated Linear Contextual Bandits for Privacy Protected Recommendation](https://dl.acm.org/doi/abs/10.1145/3580305.3599475) | Aug. 2023 | KDD'23 |
+| [Federated Probabilistic Preference Distribution Modelling with Compactness Co-Clustering for Privacy-Preserving Multi-Domain Recommendation](https://www.ijcai.org/proceedings/2023/0245.pdf) | Aug. 2023 | IJCAI'23 |
 
 ### Journal articles
 | Title | Time | Publication venue |
@@ -61,7 +64,7 @@ Works are sorted by time.
 | [Federated recommenders: methods, challenges and future](https://link.springer.com/article/10.1007/s10586-022-03644-w) | May. 2022 | Cluster Computing |
 | [FedRec: Trusted rank-based recommender scheme for service provisioning in federated cloud environment](https://www.sciencedirect.com/science/article/pii/S2352864822001250) | Jun. 2022 | Digital Communications and Networks |
 | [Privacy-Preserving Hierarchical Federated Recommendation Systems](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10044657) | Feb. 2023 | IEEE Communications Letters |
-| [Privacy-preserving graph convolution network for federated item recommendation](https://www.sciencedirect.com/science/article/pii/S000437022300142X) | Nov. 2023 | Artificial Intelligence |
+| [Privacy-preserving Graph Convolution Network for Federated Item Recommendation](https://www.sciencedirect.com/science/article/pii/S000437022300142X) | Nov. 2023 | Artificial Intelligence |
 
 ### Book chapters
 | Title | Time | Publication venue |
