@@ -2,7 +2,7 @@
 
 This repository is maintained for collecting and showing the current research progress of FedRec.
 
-<strong>Last Update: Sep. 2nd 2023</strong>.
+<strong>Last Update: Oct. 17th 2023</strong>.
 
 ## Summary
 
@@ -46,6 +46,7 @@ Works are sorted by time.
 | [PrivateRec: Differentially Private Model Training and Online Serving for Federated News Recommendation](https://dl.acm.org/doi/abs/10.1145/3580305.3599889) | Aug. 2023 | KDD'23 |
 | [Privacy Matters: Vertical Federated Linear Contextual Bandits for Privacy Protected Recommendation](https://dl.acm.org/doi/abs/10.1145/3580305.3599475) | Aug. 2023 | KDD'23 |
 | [Federated Probabilistic Preference Distribution Modelling with Compactness Co-Clustering for Privacy-Preserving Multi-Domain Recommendation](https://www.ijcai.org/proceedings/2023/0245.pdf) | Aug. 2023 | IJCAI'23 |
+| [Dual Personalization on Federated Recommendation](https://www.ijcai.org/proceedings/2023/0507.pdf) | Aug. 2023 | IJCAI'23 |
 
 ### Journal articles
 | Title | Time | Publication venue |
@@ -94,6 +95,8 @@ Works are sorted by time.
 | [PipAttack: Poisoning Federated Recommender Systems for Manipulating Item Promotion](https://arxiv.org/pdf/2110.10926.pdf) | Oct. 2021 | arXiv |
 | [FedSPLIT: One-Shot Federated Recommendation System Based on Non-negative Joint Matrix Factorization and Knowledge Distillation](https://arxiv.org/pdf/2205.02359.pdf) | May. 2022 | arXiv |
 | [Efficiency Boosting of Secure Cross-platform Recommender Systems over Sparse Data](https://arxiv.org/pdf/2212.01537.pdf) | Dec. 2022 | arXiv |
+| [IFedRec: Item-Guided Federated Aggregation for Cold-Start Recommendation](https://arxiv.org/pdf/2305.12650.pdf) | May. 2023 | arXiv |
+| [Graph-guided Personalization for Federated Recommendation](https://arxiv.org/pdf/2305.07866.pdf) | May. 2023 | arXiv |
 
 <!--
 ## Details
